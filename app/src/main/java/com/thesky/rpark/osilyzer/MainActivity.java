@@ -294,9 +294,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void preparePowerBalanceView() {
-        voltageSensor = new PowerBalance("전압 센서");
-        currentSensor = new PowerBalance("전류 센서");
-        sparkDetectSensor = new PowerBalance("스파크감지센서");
+        voltageSensor = new PowerBalance("sensor1");
+        currentSensor = new PowerBalance("sensor2");
+        sparkDetectSensor = new PowerBalance("sensor3");
         sensorList.add(voltageSensor);
         sensorList.add(currentSensor);
         sensorList.add(sparkDetectSensor);

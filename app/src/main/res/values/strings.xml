@@ -13,8 +13,8 @@
     <string name="action_play_next">Next</string>
 
     <!--main image string-->
-    <string name="backdrop_title">Power Balance</string>
-    <string name="backdrop_subtitle">전압, 전류, 스파크 전압 측정, 분석 툴</string>
+    <string name="backdrop_title">Sensor Graph</string>
+    <string name="backdrop_subtitle">Sensor showing via bluetooth</string>
 
     <!-- DeviceListActivity -->
     <string name="scanning">Scanning for devices...</string>
